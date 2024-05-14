@@ -26,9 +26,9 @@
 
 ## 📈 GitHub Статистика
 
-![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=11Alone11&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11Alone11&layout=compact&theme=dark)
+
+![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=11Alone11&show_icons=true&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=11Alone11&theme=dark)
 
