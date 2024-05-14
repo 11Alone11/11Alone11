@@ -26,7 +26,7 @@
 
 ## 📈 GitHub Статистика
 
-![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=11Alone11e&show_icons=true)
+![GitHub Статистика](https://github-readme-stats.vercel.app/api?username=11Alone11&show_icons=true)
 
 ## 📫 Свяжитесь со мной
 
