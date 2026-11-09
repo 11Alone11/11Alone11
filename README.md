@@ -80,7 +80,7 @@ Frontend-разработчик с 3+ годами коммерческого о
 
 ### Бонусторг — платформа объявлений об автомобилях
 
-`ноябрь 2024 — октябрь 2025` · Vue 3 · Nuxt · TypeScript · Pinia · Vite
+`ноябрь 2024 — октябрь 2025` · [abw.by](https://abw.by) · Vue 3 · Nuxt · TypeScript · Pinia · Vite
 
 - Перевёл проект с JavaScript на TypeScript и мигрировал с Nuxt 3 на Nuxt 4, вынеся бизнес-логику
   в composables и модули Pinia.
@@ -127,15 +127,6 @@ Frontend-разработчик с 3+ годами коммерческого о
 - Встроил веб-приложение в экосистему Telegram через Telegram WebApps API.
 - Реализовал систему заданий, квестов и наград для вовлечения пользователей.
 - Свёрстал интерфейс под ограничения WebView на iOS, Android и Desktop.
-
-### Спецтехника — лендинг аренды спецтехники
-
-`ноябрь 2026` · [код](https://github.com/11Alone11/Gruzoperevozki_ai) · [сайт](https://11alone11.github.io/Gruzoperevozki_ai/)
-
-Одностраничный сайт на GitHub Pages без сервера: разметка, стили и JS в одном файле.
-
-- Content-Security-Policy с хешами, автоматически рассчитываемыми на сборке.
-- JSON-LD, sitemap.xml, webmanifest, страница 404 — базовая SEO-обвязка без фреймворка.
 
 ## Open source
 

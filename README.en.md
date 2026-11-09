@@ -77,7 +77,7 @@ documentation in Russian and English.
 
 ### Bonustorg — automotive classifieds platform
 
-`November 2024 — October 2025` · Vue 3 · Nuxt · TypeScript · Pinia · Vite
+`November 2024 — October 2025` · [abw.by](https://abw.by) · Vue 3 · Nuxt · TypeScript · Pinia · Vite
 
 - Migrated the project from JavaScript to TypeScript and from Nuxt 3 to Nuxt 4, moving business
   logic into composables and Pinia modules.
@@ -122,15 +122,6 @@ production build.
 - Embedded the web app into the Telegram ecosystem via the Telegram WebApps API.
 - Implemented a system of tasks, quests and rewards to drive user engagement.
 - Built the UI around WebView constraints on iOS, Android and Desktop.
-
-### Construction equipment rental landing
-
-`November 2026` · [code](https://github.com/11Alone11/Gruzoperevozki_ai) · [live](https://11alone11.github.io/Gruzoperevozki_ai/)
-
-A single-page site on GitHub Pages with no server: markup, styles and JS in a single file.
-
-- Content-Security-Policy with hashes generated at build time.
-- JSON-LD, sitemap.xml, web manifest and a 404 page — basic SEO plumbing without a framework.
 
 ## Open source
 
