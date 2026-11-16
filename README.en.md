@@ -61,7 +61,7 @@ documentation in Russian and English.
 
 ## Projects
 
-### Ministry of Internal Affairs, IT unit — mapping web application
+### Ministry of Internal Affairs, IT unit — web application
 
 `November 2025 — October 2026` · React · TypeScript · Redux Toolkit · TanStack Query · MUI · Mantine · MapLibre GL JS
 
